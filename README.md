@@ -27,3 +27,7 @@ Once all players have finished their investigation they must choose which of the
 ## History
 
 This is a continuation of our previous project, available at https://github.com/eugencowie/CommunicationDetective
+
+## License
+
+All rights reserved.
